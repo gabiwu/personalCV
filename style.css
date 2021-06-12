@@ -1,0 +1,7 @@
+table, tr, th, td {
+    padding: 10px;
+}
+
+th {
+    font-size: 1.25em;
+}
